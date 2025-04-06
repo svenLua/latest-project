@@ -25,3 +25,4 @@ for i in range(nr_symbols):
 random.shuffle(password_suggestion)
 complete_password = ''.join(password_suggestion)
 print(f"Your password is: {complete_password}")
+#lul
